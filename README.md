@@ -1,11 +1,11 @@
-# [Frontend Metro Template](https://github.com/europanite/frontend_metro_template "Frontend Metro Template")
+# [Drawing](https://github.com/europanite/drawing "Drawing")
 
-A Client Side Metro Template.
+A browser-based drawing tool.
 
 ---
 
 ##  🚀 PlayGround
- [Frontend Metro Template](https://europanite.github.io/frontend_metro_template/)
+ [Drawing](https://europanite.github.io/drawing/)
 
 ---
 
@@ -17,6 +17,8 @@ A Client Side Metro Template.
 ### 2. Build and start all services:
 
 ```bash
+# set environment variables:
+export REACT_NATIVE_PACKAGER_HOSTNAME=${YOUR_HOST}
 
 # Build the image
 docker compose build
