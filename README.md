@@ -1,11 +1,11 @@
 # [Drawing](https://github.com/europanite/drawing "Drawing")
 
-A browser-based drawing tool.
-
----
+!["web_ui"](./assets/images/web_ui.png)
 
 ##  🚀 PlayGround
  [Drawing](https://europanite.github.io/drawing/)
+
+A browser-based drawing tool.
 
 ---
 
