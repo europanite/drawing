@@ -1,9 +1,10 @@
 # [Drawing](https://github.com/europanite/drawing "Drawing")
 
+[![GitHub Pages](https://github.com/europanite/drawing/actions/workflows/deploy-pages.yml/badge.svg)](https://github.com/europanite/drawing/actions/workflows/deploy-pages.yml)
+
 !["web_ui"](./assets/images/web_ui.png)
 
-##  🚀 PlayGround
- [Drawing](https://europanite.github.io/drawing/)
+ [PlayGround](https://europanite.github.io/drawing/)
 
 A browser-based drawing tool.
 
