@@ -2,6 +2,8 @@ import React, {
   useCallback,
   useMemo,
   useState,
+  TouchableOpacity,
+  Linking
 } from "react";
 import {
   View,
