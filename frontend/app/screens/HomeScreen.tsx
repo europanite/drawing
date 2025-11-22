@@ -117,10 +117,14 @@ export default function HomeScreen() {
     setIsDrawing(false);
   };
 
+  const REPO_URL = "https://github.com/europanite/drawing";
+
   return (
     <View style={styles.root}>
       <View style={styles.content}>
-        <Text style={styles.title}>Browser Drawing Playground</Text>
+        <TouchableOpacity onPress={() => Linking.openURL(REPO_URL)}>
+          <Text style={styles.title}>Drawing</Text>
+        </TouchableOpacity>
         <Text style={styles.subtitle}>
           Draw with your mouse or finger. Choose a color and stroke width,
           then start drawing on the canvas below.
