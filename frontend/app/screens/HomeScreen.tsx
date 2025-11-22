@@ -2,8 +2,6 @@ import React, {
   useCallback,
   useMemo,
   useState,
-  TouchableOpacity,
-  Linking
 } from "react";
 import {
   View,
@@ -11,6 +9,8 @@ import {
   StyleSheet,
   useWindowDimensions,
   GestureResponderEvent,
+  TouchableOpacity,
+  Linking
 } from "react-native";
 import Svg, { Path, Rect } from "react-native-svg";
 
