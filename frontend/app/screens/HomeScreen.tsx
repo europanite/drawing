@@ -125,7 +125,7 @@ export default function HomeScreen() {
     <View style={styles.root}>
       <View style={styles.content}>
         <TouchableOpacity onPress={() => Linking.openURL(REPO_URL)}>
-          <Text style={styles.title}>Drawing</Text>
+          <Text style={styles.title}>Browser Drawing Playground</Text>
         </TouchableOpacity>
         <Text style={styles.subtitle}>
           Draw with your mouse or finger. Choose a color and stroke width,
